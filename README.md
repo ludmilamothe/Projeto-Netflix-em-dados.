@@ -16,7 +16,7 @@ As seguintes ferramentas foram usadas na construção do projeto:
 - Tableau
 
 
-## Autor
+## Autora
 Ludmila Mothé
 
 - [Gmail](mailto:ludmila.mothe@gmail.com)
